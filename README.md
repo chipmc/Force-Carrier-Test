@@ -12,7 +12,7 @@ A Particle project named Force-Carrier-Test
 /*  For use in setting the carriers for our Rwanda sensors
 Data from: https://www.mcc-mnc.com
 
-MCC	MNC	ISO	Country	      Country Code	Network
+* MCC	MNC	ISO	Country	      Country Code	Network
 * 310	410	us	United States	1	            AT&T Wireless Inc
 * 310	260	us	United States	1	            T-Mobile
 
