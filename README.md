@@ -13,11 +13,11 @@ A Particle project named Force-Carrier-Test
 Data from: https://www.mcc-mnc.com
 
 MCC	MNC	ISO	Country	      Country Code	Network
-310	410	us	United States	1	            AT&T Wireless Inc
-310	260	us	United States	1	            T-Mobile
+* 310	410	us	United States	1	            AT&T Wireless Inc
+* 310	260	us	United States	1	            T-Mobile
 
-635	14	rw	Rwanda	      250	          Airtel
-635	10	rw	Rwanda	      250	          MTN/Rwandacell
-635	13	rw	Rwanda	      250	          TIGO
+* 635	14	rw	Rwanda	      250	          Airtel
+* 635	10	rw	Rwanda	      250	          MTN/Rwandacell
+* 635	13	rw	Rwanda	      250	          TIGO
 
 */
